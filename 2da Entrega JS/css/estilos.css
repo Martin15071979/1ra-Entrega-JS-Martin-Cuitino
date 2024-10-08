@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+.productos .card1 {
+    overflow: hidden;
+
+  }
+  .productos .card1 img {
+    transition: 1s;
+  }
+  .productos .card1 img:hover {
+    transform: scale(1.1);
+  }
+
+  .productos .card1 img {
+    height: 200px;
+    width: 200px;
+
+  }
